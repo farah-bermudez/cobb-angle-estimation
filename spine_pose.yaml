@@ -1,0 +1,18 @@
+# Configuracion del dataset para YOLOv11-Pose
+# Proyecto: Medicion automatica del angulo de Cobb
+
+# Ruta raiz del dataset punto desde donde se buscan train y val
+path: .
+
+# Rutas a las imagenes
+train: data/images/train
+val:   data/images/test
+
+# Configuracion de keypoints:
+# 4 keypoints por vertebra
+# 2 coordenadas por keypoint (x, y)
+kpt_shape: [4, 3]
+
+# Clases solo hay una: vertebra
+names:
+  0: vertebra
