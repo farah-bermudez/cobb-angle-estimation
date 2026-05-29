@@ -1,4 +1,5 @@
 # cobb-angle-estimation
+YouTube video explaining the proyect: https://youtu.be/TDVh-Do1EMs?si=Xxu-PUT-mVaLSFAX 
 Automatic Cobb angle estimation in spine AP view X-rays using YOLOv11-Pose 
 # Automatic Cobb Angle Estimation in Spine X-rays using YOLOv11-Pose
 
